@@ -1,0 +1,5 @@
+# Distribution / packaging
+.Python
+env/
+src/maindj/settings.py
+.vscode
